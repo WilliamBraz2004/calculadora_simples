@@ -6,7 +6,7 @@ Calculadora simples, feita em HTML, CSS e JavaScript.
 
 <h2>📱Tela do projeto</h2>
 
-<img src="" width="400px"/>
+<img src="https://user-images.githubusercontent.com/86376135/170054356-8d5b9600-807c-42f8-a8f3-0109e1f6a540.png" width="1100px"/>
 
 <h2>✒️Autor</h2>
 
